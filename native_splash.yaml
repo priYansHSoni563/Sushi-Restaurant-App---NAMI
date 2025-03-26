@@ -1,0 +1,11 @@
+flutter_native_splash: 
+ android: true
+ ios: true
+ web: false
+
+
+ color: "#ffffff"
+ background_image: "lib/images/Vintage Japanese NAMI removebg preview (1).png"
+ image: "lib/images/Vintage Japanese NAMI removebg preview (1).png"
+
+ 
